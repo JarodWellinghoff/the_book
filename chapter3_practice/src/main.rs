@@ -1,6 +1,7 @@
 fn main() {
     println!("{}", fahrenheit_to_celsius(32.0));
     println!("{}", fibonacci(10));
+    twleve_days_of_christmas();
 }
 
 // Cpnvert temperature from Fahrenheit to Celsius
